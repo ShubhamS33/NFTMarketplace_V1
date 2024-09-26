@@ -9,3 +9,11 @@ cd NFT-Marketplace-Tutorial
 npm install
 npm start
 ```
+
+
+Hello this project was created by my team during the last year of Engineering.
+
+We build it with help of some tutorials and articles. The aim was to learn how to build a NFT Marketplace.
+We where new to Web3 and Smart Contracts we focused fully on it.
+
+The Project is deployed on Vercel - https://nft-marketplace-v1-ashy.vercel.app/
